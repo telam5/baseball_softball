@@ -1,0 +1,111 @@
+body {
+background-color: #ece3d7;
+}
+header {
+  background-color: #72A0C1;
+  background-repeat: no-repeat;
+  color: #FFBF00;
+  font-size: 35px;
+  font-family:  Georgia, Palatino, 'Century Schoolbook', serif;
+  height: 55px;
+  padding: 10px;
+  overflow: hidden;
+}
+p{
+  font-size: 16px;
+}
+article {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 2.5px;
+  background-color: white;
+  padding: 5px;
+  padding-top: 15px;
+  margin: px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: left;
+  font-size: 14px;
+  color: black;
+}
+.index {
+  font size: 14px;
+  text-align: center;
+}
+td {
+  text-align: center;
+  color: #D2691E;
+}
+
+/*---nav bar--*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+  font-family: times, sans-serif;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #36454F;
+  font-family: arial, sans-serif;
+}
+nav li {
+  float: left;
+}
+
+nav li a{
+  display: block;
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
+  padding: 14px 16px;
+  padding-left: 15px;
+  background-color: #36454F;
+}
+nav li a:hover {
+  background-color: #999;
+}
+#about{
+  font-size: 20px;
+  text-align: center;
+  color: darkred;
+}
+.operation {
+  font-size: 20PX;
+  color: #1560BD;
+}
+.monday-friday {
+  font-size: 16px;
+  font-style: italic;
+}
+.saturday {
+  font-size: 16px;
+  font-style: italic;
+}
+.sunday {
+  font-size: 16px;
+  font-style: italic;
+}
+.address {
+  font-size: 16px;
+  font-style: italic;
+}
+.location {
+  font-size: 20px;
+  color: #1560BD;
+}
+
+---logo---*/
+#logo {
+  margin-top: 15px;
+  height: 30px;
+}
+
